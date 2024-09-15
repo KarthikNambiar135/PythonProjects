@@ -32,3 +32,18 @@ Simpler version of the famous word guessing game, Hangman.
 Simple number guessing game. User has limited number of attempts to guess the number based on the difficulty, and the program tells the user whether the guess is too high or too low.
 ### 8. Higher or Lower Followers:
 Simple game to guess which of the 2 celebrities has higher number of Instagram Followers.
+
+##15 September 2024
+Added 6 Project Codes =>
+###1. Etch-A-Sketch:
+Simple Draw and Clear Turtle GUI program.
+###2. Hirst Python Project:
+Program which recreates the Hirst's Dot Painting
+###3. Pong Ball Game:
+Classic Arcade Pong Game using Turtle GUI
+###4. Quiz Game:
+Simple True or False Quiz Game
+###5. Snake Game:
+Classic Arcade Snake Game using Turtle GUI
+###6. Turtle Race Bet:
+A simple betting game on turtles of different colours racing with each other, made using Turtle GUI
